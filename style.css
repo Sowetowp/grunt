@@ -40,6 +40,10 @@
     line-height: 110px;
     margin-top: 60px;
 }
+.floater div{
+    width: fit-content;
+    margin: auto;
+}
 .box1{
     width: 50%;
 }
