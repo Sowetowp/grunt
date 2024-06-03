@@ -73,6 +73,7 @@
     color: rgb(205, 4, 4);
     border: solid 1px rgb(223, 8, 8);
     padding: 15px 30px 15px 30px;
+    position: relative;
 }
 .box2 button:hover{
     background-color: rgb(205, 4, 4);
