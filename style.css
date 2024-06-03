@@ -65,5 +65,6 @@
     padding: 20px 30px 20px 30px;
 }
 .box2 button:hover{
-    background-color: ;
+    background-color: rgb(205, 4, 4);
+    color: white;
 }
