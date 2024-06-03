@@ -51,4 +51,5 @@
 }
 .box2 p{
     bottom: 0;
+    position: relative;
 }
