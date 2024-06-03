@@ -15,6 +15,7 @@
     align-items: center;
     box-shadow: 1px 1px 5px rgb(221, 221, 221);
     position: fixed;
+    z-index: 2;
 }
 .logo{
     font-weight: 700;
@@ -36,8 +37,9 @@
 }
 .hero{
     width: 100%;
-    top: 105px;
+    top: 102px;
     position: relative;
+    z-index: 1;
 }
 .box1 img{
     width: 100%;
