@@ -37,6 +37,8 @@
     width: 50%;
     padding: 40px;
     background-color: aqua;
+    display: flex;
+    align-items: last baseline;
 }
 .hero{
     width: 100%;
