@@ -38,7 +38,6 @@
     padding: 40px;
     background-color: aqua;
     display: flex;
-    flex-wrap: wrap;
     align-items: last baseline;
 }
 .hero{
@@ -53,5 +52,4 @@
     border-bottom-right-radius: 150px;
 }
 .box2 p{
-    width: 100%;
 }
