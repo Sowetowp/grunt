@@ -39,7 +39,7 @@
     background-color: aqua;
     display: flex;
     flex-direction: column;
-    align-items: last baseline;
+    justify-content: baseline;
 }
 .hero{
     width: 100%;
