@@ -36,7 +36,8 @@
 .box2{
     width: 50%;
     padding: 40px;
-    vertical-align: bottom;
+    display: flex;
+    align-items: baseline;
 }
 .hero{
     width: 100%;
