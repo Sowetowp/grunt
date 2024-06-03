@@ -33,6 +33,7 @@
     width: 100%;
     height: 100%;
     flex-wrap: wrap;
+    text-align: center;
 }
 .floater h1{
     font-size: 110px;
