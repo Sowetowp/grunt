@@ -42,6 +42,7 @@
     top: 102px;
     position: relative;
     z-index: 1;
+    display: flex;
 }
 .box1 img{
     width: 100%;
