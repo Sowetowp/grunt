@@ -36,6 +36,9 @@
     justify-content: center;
     align-items: center;
 }
+.floater h1{
+    font-size: 50px;
+}
 .box1{
     width: 50%;
 }
