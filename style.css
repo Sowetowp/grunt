@@ -40,7 +40,7 @@
     line-height: 110px;
     margin-top: 60px;
 }
-.floater div{
+.floater .red{
     width: fit-content;
     margin: auto;
 }
