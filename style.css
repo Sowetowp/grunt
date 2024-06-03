@@ -90,6 +90,7 @@
 }
 .sec1{
     padding: 30px 90px 30px 90px;
+    position: relative;
 }
 .p1{
     font-size: 20px;
