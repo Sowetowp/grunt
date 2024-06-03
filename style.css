@@ -15,5 +15,8 @@
     align-items: center;
 }
 .logo{
-    font-weight: 600;
+    font-weight: 700;
+}
+.logo span{
+    color: red;
 }
