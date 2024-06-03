@@ -89,5 +89,14 @@
     margin-left: 20px;
 }
 .sec1{
-    padding: ;
+    padding: 30px 90px 30px 90px;
+}
+.p1{
+    font-size: 20px;
+    color: grey;
+}
+.p2{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(182, 12, 12);
 }
