@@ -40,7 +40,6 @@
     line-height: 110px;
     margin-top: 60px;
     display: flex;
-    flex-direction: column;
 }
 .box1{
     width: 50%;
