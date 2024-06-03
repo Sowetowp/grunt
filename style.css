@@ -59,5 +59,7 @@
 .box2 button{
     margin-top: 50px;
     border-radius: 30px;
+    font-size: 15px;
+    color: red;
     padding: 20px 30px 20px 30px;
 }
