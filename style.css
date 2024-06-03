@@ -49,3 +49,6 @@
     width: 100%;
     border-bottom-right-radius: 150px;
 }
+.box2 p{
+    bottom: 0;
+}
