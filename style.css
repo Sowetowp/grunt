@@ -82,8 +82,8 @@
     color: white;
 }
 .dot{
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
     background-color: red;
     border-radius: 50%;
     margin-top: 10px;
